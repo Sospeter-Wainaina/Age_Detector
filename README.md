@@ -40,3 +40,4 @@ In the paper, the authors propose a simplistic AlexNet-like architecture that le
 You’ll note that these age brackets are noncontiguous — this done on purpose, as the Adience dataset, used to train the model, defines the age ranges as such (we’ll learn why this is done in the next section).
 
 We’ll be using a pre-trained age detector model.
+you can add as many images as you would like and feel free to contribute
